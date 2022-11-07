@@ -1,0 +1,25 @@
+*{
+    margin:0px;
+}
+
+.container{
+    
+    display:-webkit-flex;
+    justify-content: center;
+    background-color: black;
+}
+.Her{
+    margin:3px;
+    margin-bottom: 5px;
+    size: 0.2px;
+    height: 85vh;
+    ;
+    
+    image-orientation:flip;
+}
+.Him{
+    margin-bottom: 5px;
+    size: 0.2px;
+    height: 85vh;
+    image-orientation:unset;
+}
